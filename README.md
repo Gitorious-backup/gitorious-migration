@@ -1,7 +1,7 @@
 # About this crappy project
 
 This is a quick set of one off migrate scripts used to preserve Gitorious in all
-of it's AGPL goodness.  [Gitorious was bought by GitLab][gitorious-aquisition].
+of its AGPL goodness.  [Gitorious was bought by GitLab][gitorious-aquisition].
 As a result my knee jerk reaction was to preserve the current Gitorious code
 base.
 
