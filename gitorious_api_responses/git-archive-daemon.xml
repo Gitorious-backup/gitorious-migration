@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-07-21T12:52:57Z</created-at>
+  <description>Git Archive Daemon</description>
+  <last-pushed-at type="datetime">2014-11-18T19:47:09Z</last-pushed-at>
+  <name>git-archive-daemon</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/git-archive-daemon.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/git-archive-daemon.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

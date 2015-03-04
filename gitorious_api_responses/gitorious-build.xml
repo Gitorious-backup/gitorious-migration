@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-04-15T07:50:47Z</created-at>
+  <description>Gitorious build scripts (docker, packer)</description>
+  <last-pushed-at type="datetime">2014-06-25T11:01:49Z</last-pushed-at>
+  <name>gitorious-build</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-build.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-build.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

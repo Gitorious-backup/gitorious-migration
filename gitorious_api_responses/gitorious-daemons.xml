@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-03-01T07:21:58Z</created-at>
+  <description>The Gitorious super daemon</description>
+  <last-pushed-at type="datetime">2013-03-06T14:37:12Z</last-pushed-at>
+  <name>gitorious-daemons</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-daemons.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-daemons.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

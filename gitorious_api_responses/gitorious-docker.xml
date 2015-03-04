@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-10-09T13:42:25Z</created-at>
+  <description>Gitorious docker container!</description>
+  <last-pushed-at type="datetime">2014-04-04T07:58:04Z</last-pushed-at>
+  <name>gitorious-docker</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-docker.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-docker.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

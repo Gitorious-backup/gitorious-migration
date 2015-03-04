@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-10-05T11:46:54Z</created-at>
+  <description>Tilt templates with layouts and helpers</description>
+  <last-pushed-at type="datetime">2013-11-07T10:06:10Z</last-pushed-at>
+  <name>tiltout</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/tiltout.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/tiltout.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

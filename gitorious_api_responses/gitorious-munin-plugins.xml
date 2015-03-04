@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-10-31T12:57:10Z</created-at>
+  <description>Munin plugins for Gitorious servers.
+
+These plugins can be installed as gems and then symlinked into /etc/munin/plugins on your server</description>
+  <last-pushed-at type="datetime">2013-06-13T07:42:29Z</last-pushed-at>
+  <name>gitorious-munin-plugins</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-munin-plugins.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-munin-plugins.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

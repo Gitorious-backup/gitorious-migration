@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-04-21T13:30:41Z</created-at>
+  <description>A set of smoke tests used to validate Gitorious builds.</description>
+  <last-pushed-at type="datetime">2014-05-22T23:22:01Z</last-pushed-at>
+  <name>gitorious-smoke-tests</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-smoke-tests.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-smoke-tests.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

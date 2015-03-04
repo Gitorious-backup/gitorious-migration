@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-11-04T11:56:07Z</created-at>
+  <description>Convert any Ruby string to UTF-8.</description>
+  <last-pushed-at type="datetime">2013-11-05T09:59:19Z</last-pushed-at>
+  <name>force_utf8</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/force_utf8.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/force_utf8.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

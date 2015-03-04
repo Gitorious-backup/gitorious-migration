@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-10-13T14:56:57Z</created-at>
+  <description>Postfix packaged for Docker as used by Gitorious</description>
+  <last-pushed-at type="datetime">2014-10-13T14:58:45Z</last-pushed-at>
+  <name>docker-postfix</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/docker-postfix.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/docker-postfix.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

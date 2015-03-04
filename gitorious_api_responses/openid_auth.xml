@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-10-30T10:29:09Z</created-at>
+  <description></description>
+  <last-pushed-at type="datetime">2012-10-30T10:41:44Z</last-pushed-at>
+  <name>openid_auth</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/openid_auth.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/openid_auth.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

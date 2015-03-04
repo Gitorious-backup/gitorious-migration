@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-08-15T07:56:37Z</created-at>
+  <description>Up-to-date Gitorious documentation, handily compiled into book form. We are currently working on the first draft of this.</description>
+  <last-pushed-at type="datetime">2013-08-08T10:29:34Z</last-pushed-at>
+  <name>gitorious-book</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-book.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-book.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

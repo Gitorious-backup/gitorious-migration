@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2010-11-04T11:15:44Z</created-at>
+  <description nil="true"/>
+  <last-pushed-at type="datetime" nil="true"/>
+  <name>vsr-mainline</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/vsr-mainline.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/vsr-mainline.git</push-url>
+  <parent>
+    <created-at type="datetime">2008-01-06T01:20:41Z</created-at>
+    <description>Gitorious web interface built with Ruby on Rails</description>
+    <last-pushed-at type="datetime">2015-03-04T14:34:38Z</last-pushed-at>
+    <name>mainline</name>
+    <ready type="boolean">true</ready>
+    <clone-url>https://gitorious.org/gitorious/mainline.git</clone-url>
+    <push-url>git@gitorious.org:gitorious/mainline.git</push-url>
+    <parent nil="true"/>
+    <owner kind="Team">vsr</owner>
+    <kind>team</kind>
+    <project>gitorious</project>
+  </parent>
+  <owner kind="Team">vsr</owner>
+  <kind>team</kind>
+  <project>gitorious</project>
+</repository>

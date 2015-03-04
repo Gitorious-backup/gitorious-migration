@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2011-02-17T14:47:37Z</created-at>
+  <description>An implementation of Git over HTTP, courtesy of JGit.</description>
+  <last-pushed-at type="datetime">2011-02-18T07:06:28Z</last-pushed-at>
+  <name>jgit-http-server</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/jgit-http-server.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/jgit-http-server.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-09-10T13:08:37Z</created-at>
+  <description>A stand-alone web server and Ruby library for browsing Git repositories (blobs, trees, blame and individual file history). Based on EventMachine.</description>
+  <last-pushed-at type="datetime">2014-06-09T10:36:58Z</last-pushed-at>
+  <name>dolt</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/dolt.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/dolt.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

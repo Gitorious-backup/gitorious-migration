@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2011-03-01T15:28:55Z</created-at>
+  <description>Work in progress. Implement smart HTTP in JRuby, using JGit.</description>
+  <last-pushed-at type="datetime">2011-07-15T05:41:22Z</last-pushed-at>
+  <name>mutt</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/mutt.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/mutt.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

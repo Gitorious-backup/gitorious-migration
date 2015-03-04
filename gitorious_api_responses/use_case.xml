@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-03-26T14:31:17Z</created-at>
+  <description>A small abstraction for encapsulating non-trivial Ruby business logic</description>
+  <last-pushed-at type="datetime">2014-01-02T12:04:41Z</last-pushed-at>
+  <name>use_case</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/use_case.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/use_case.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

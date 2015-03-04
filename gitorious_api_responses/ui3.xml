@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-09-10T12:54:13Z</created-at>
+  <description>UI files for Gitorious' UI version 3.</description>
+  <last-pushed-at type="datetime">2015-02-13T16:56:24Z</last-pushed-at>
+  <name>ui3</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/ui3.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/ui3.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

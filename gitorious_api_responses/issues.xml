@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2011-07-05T08:15:45Z</created-at>
+  <description>The Chiliproject (https://www.chiliproject.org) installation used on http://issues.gitorious.org</description>
+  <last-pushed-at type="datetime">2011-07-06T14:42:24Z</last-pushed-at>
+  <name>issues</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/issues.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/issues.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

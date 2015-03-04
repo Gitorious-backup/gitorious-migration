@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-06-13T11:59:11Z</created-at>
+  <description>An initialization system for your UI modules. Declare dependencies between features, scalars, data and elements and have your modules loaded as soon as possible.</description>
+  <last-pushed-at type="datetime">2013-11-25T21:53:44Z</last-pushed-at>
+  <name>uinit</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/uinit.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/uinit.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

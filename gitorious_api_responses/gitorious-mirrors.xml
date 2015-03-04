@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-07-11T08:17:43Z</created-at>
+  <description></description>
+  <last-pushed-at type="datetime">2014-02-07T17:11:15Z</last-pushed-at>
+  <name>gitorious-mirrors</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-mirrors.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-mirrors.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

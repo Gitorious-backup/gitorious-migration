@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-08-07T13:35:58Z</created-at>
+  <description>An attempt at extracting search from mainline.</description>
+  <last-pushed-at type="datetime">2013-08-07T13:36:25Z</last-pushed-at>
+  <name>gitorious-search</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-search.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-search.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

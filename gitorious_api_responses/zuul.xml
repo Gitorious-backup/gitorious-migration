@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-09-26T11:51:17Z</created-at>
+  <description>The stand-alone Gitorious HTTP API</description>
+  <last-pushed-at type="datetime">2014-08-26T17:47:06Z</last-pushed-at>
+  <name>zuul</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/zuul.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/zuul.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

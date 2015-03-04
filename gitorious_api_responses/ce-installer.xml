@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-09-20T13:27:31Z</created-at>
+  <description>Simplified, interactive installer for Gitorious Community Edition. See readme.html for instructions and video walkthrough.</description>
+  <last-pushed-at type="datetime">2015-02-10T10:39:49Z</last-pushed-at>
+  <name>ce-installer</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/ce-installer.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/ce-installer.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

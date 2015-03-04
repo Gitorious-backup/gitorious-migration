@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-11-14T12:41:06Z</created-at>
+  <description></description>
+  <last-pushed-at type="datetime">2014-11-14T13:43:31Z</last-pushed-at>
+  <name>reflog-fun</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/reflog-fun.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/reflog-fun.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

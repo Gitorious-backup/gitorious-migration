@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-09-01T15:52:30Z</created-at>
+  <description>Gitorious protocol handlers (ssh, http)</description>
+  <last-pushed-at type="datetime">2014-10-14T15:32:42Z</last-pushed-at>
+  <name>gitorious-proto</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/gitorious-proto.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/gitorious-proto.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

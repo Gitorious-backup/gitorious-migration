@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2011-01-11T13:57:56Z</created-at>
+  <description>Source code for status.gitorious.org</description>
+  <last-pushed-at type="datetime">2014-03-13T13:56:57Z</last-pushed-at>
+  <name>status-site</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/status-site.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/status-site.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

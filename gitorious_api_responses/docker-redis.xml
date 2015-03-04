@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2014-10-10T14:21:48Z</created-at>
+  <description>Redis packaged for Docker as used by Gitorious</description>
+  <last-pushed-at type="datetime">2014-10-10T14:24:18Z</last-pushed-at>
+  <name>docker-redis</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/docker-redis.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/docker-redis.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

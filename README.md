@@ -15,6 +15,7 @@ repository.
 
     ./clone.sh
     ./migrate.sh
+    ./api_responses.sh
 
 Please note that `refs/merge-requests/*` has been preserved on all repositories.
 A quick summary of the git commands used to perform the mirroring.

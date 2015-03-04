@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-06-12T10:20:22Z</created-at>
+  <description>A CLI for accessing merge requests in Gitorious</description>
+  <last-pushed-at type="datetime">2012-06-12T12:36:45Z</last-pushed-at>
+  <name>merge-request-cli</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/merge-request-cli.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/merge-request-cli.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

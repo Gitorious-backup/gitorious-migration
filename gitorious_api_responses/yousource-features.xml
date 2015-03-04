@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2010-05-18T14:04:14Z</created-at>
+  <description>This repository _was_ for preparing merge requests of YouSource's features and other fixes to Gitorious mainline. YouSource is a local deployment of Gitorious, currently in beta use in the University of Jyväskylä (in middle of Finland).
+
+YouSource is a custom version of Gitorious, developed by Verso team for Department of Mathematical Information Technology of the University of Jyväskylä.</description>
+  <last-pushed-at type="datetime">2011-07-19T12:27:51Z</last-pushed-at>
+  <name>yousource-features</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/yousource-features.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/yousource-features.git</push-url>
+  <parent>
+    <created-at type="datetime">2008-01-06T01:20:41Z</created-at>
+    <description>Gitorious web interface built with Ruby on Rails</description>
+    <last-pushed-at type="datetime">2015-03-04T14:34:38Z</last-pushed-at>
+    <name>mainline</name>
+    <ready type="boolean">true</ready>
+    <clone-url>https://gitorious.org/gitorious/mainline.git</clone-url>
+    <push-url>git@gitorious.org:gitorious/mainline.git</push-url>
+    <parent nil="true"/>
+    <owner kind="Team">verso</owner>
+    <kind>team</kind>
+    <project>gitorious</project>
+  </parent>
+  <owner kind="Team">verso</owner>
+  <kind>team</kind>
+  <project>gitorious</project>
+</repository>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-10-05T13:32:31Z</created-at>
+  <description></description>
+  <last-pushed-at type="datetime">2015-02-14T10:08:33Z</last-pushed-at>
+  <name>libdolt</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/libdolt.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/libdolt.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

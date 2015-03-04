@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <bugtracker-url>https://gitorious.org/projects/gitorious/issues/</bugtracker-url>
+  <created-at type="datetime">2008-01-06T01:20:41Z</created-at>
+  <description>Git hosting and collaboration tool - powers this site</description>
+  <home-url>http://gitorious.org</home-url>
+  <license>GNU Affero General Public License (AGPLv3)</license>
+  <mailinglist-url>http://groups.google.com/group/gitorious</mailinglist-url>
+  <slug>gitorious</slug>
+  <title>Gitorious</title>
+  <wiki-enabled type="boolean">true</wiki-enabled>
+  <owner kind="Team">gitorious-hackers</owner>
+  <repositories type="array">
+    <mainlines type="array">
+      <repository>
+        <id>1</id>
+        <name>mainline</name>
+        <owner kind="User">johan</owner>
+        <clone_url>https://gitorious.org/gitorious/mainline.git</clone_url>
+      </repository>
+      <repository>
+        <id>134160</id>
+        <name>libdolt</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/libdolt.git</clone_url>
+      </repository>
+      <repository>
+        <id>132239</id>
+        <name>ui3</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/ui3.git</clone_url>
+      </repository>
+      <repository>
+        <id>133010</id>
+        <name>ce-installer</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/ce-installer.git</clone_url>
+      </repository>
+      <repository>
+        <id>171729</id>
+        <name>git-archive-daemon</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/git-archive-daemon.git</clone_url>
+      </repository>
+      <repository>
+        <id>175999</id>
+        <name>reflog-fun</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/reflog-fun.git</clone_url>
+      </repository>
+      <repository>
+        <id>174257</id>
+        <name>packer-templates</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/packer-templates.git</clone_url>
+      </repository>
+      <repository>
+        <id>173154</id>
+        <name>gitorious-proto</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-proto.git</clone_url>
+      </repository>
+      <repository>
+        <id>174805</id>
+        <name>docker-postfix</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/docker-postfix.git</clone_url>
+      </repository>
+      <repository>
+        <id>174804</id>
+        <name>docker-memcached</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/docker-memcached.git</clone_url>
+      </repository>
+      <repository>
+        <id>174681</id>
+        <name>docker-redis</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/docker-redis.git</clone_url>
+      </repository>
+      <repository>
+        <id>174673</id>
+        <name>docker-mysql</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/docker-mysql.git</clone_url>
+      </repository>
+      <repository>
+        <id>172358</id>
+        <name>git-http-multi-backend</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/git-http-multi-backend.git</clone_url>
+      </repository>
+      <repository>
+        <id>158236</id>
+        <name>zuul</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/zuul.git</clone_url>
+      </repository>
+      <repository>
+        <id>167823</id>
+        <name>gitorious-build</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-build.git</clone_url>
+      </repository>
+      <repository>
+        <id>132241</id>
+        <name>dolt</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/dolt.git</clone_url>
+      </repository>
+      <repository>
+        <id>168040</id>
+        <name>gitorious-smoke-tests</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-smoke-tests.git</clone_url>
+      </repository>
+      <repository>
+        <id>153394</id>
+        <name>ci-puppet</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/ci-puppet.git</clone_url>
+      </repository>
+      <repository>
+        <id>158911</id>
+        <name>gitorious-docker</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-docker.git</clone_url>
+      </repository>
+      <repository>
+        <id>134159</id>
+        <name>makeup</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/makeup.git</clone_url>
+      </repository>
+      <repository>
+        <id>59060</id>
+        <name>status-site</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/status-site.git</clone_url>
+      </repository>
+      <repository>
+        <id>154140</id>
+        <name>gitorious-mirrors</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-mirrors.git</clone_url>
+      </repository>
+      <repository>
+        <id>161096</id>
+        <name>gitorious-issues</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-issues.git</clone_url>
+      </repository>
+      <repository>
+        <id>147272</id>
+        <name>use_case</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/use_case.git</clone_url>
+      </repository>
+      <repository>
+        <id>152563</id>
+        <name>uinit</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/uinit.git</clone_url>
+      </repository>
+      <repository>
+        <id>134154</id>
+        <name>tiltout</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/tiltout.git</clone_url>
+      </repository>
+      <repository>
+        <id>160343</id>
+        <name>force_utf8</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/force_utf8.git</clone_url>
+      </repository>
+      <repository>
+        <id>134002</id>
+        <name>just_paginate</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/just_paginate.git</clone_url>
+      </repository>
+      <repository>
+        <id>129924</id>
+        <name>gitorious-book</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-book.git</clone_url>
+      </repository>
+      <repository>
+        <id>155701</id>
+        <name>gitorious-search</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-search.git</clone_url>
+      </repository>
+      <repository>
+        <id>136302</id>
+        <name>gitorious-munin-plugins</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-munin-plugins.git</clone_url>
+      </repository>
+      <repository>
+        <id>145396</id>
+        <name>gitorious-daemons</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/gitorious-daemons.git</clone_url>
+      </repository>
+      <repository>
+        <id>134318</id>
+        <name>when-rb</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/when-rb.git</clone_url>
+      </repository>
+      <repository>
+        <id>136190</id>
+        <name>openid_auth</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/openid_auth.git</clone_url>
+      </repository>
+      <repository>
+        <id>124454</id>
+        <name>merge-request-cli</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/merge-request-cli.git</clone_url>
+      </repository>
+      <repository>
+        <id>62400</id>
+        <name>dmca</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/dmca.git</clone_url>
+      </repository>
+      <repository>
+        <id>66856</id>
+        <name>mutt</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/mutt.git</clone_url>
+      </repository>
+      <repository>
+        <id>85177</id>
+        <name>issues</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/issues.git</clone_url>
+      </repository>
+      <repository>
+        <id>64749</id>
+        <name>jgit-http-server</name>
+        <owner kind="Team">gitorious-hackers</owner>
+        <clone_url>https://gitorious.org/gitorious/jgit-http-server.git</clone_url>
+      </repository>
+    </mainlines>
+    <clones type="array">
+      <repository>
+        <id>20032</id>
+        <name>base_uri-fixes</name>
+        <owner kind="Team">fossa</owner>
+        <clone_url>https://gitorious.org/gitorious/base_uri-fixes.git</clone_url>
+      </repository>
+      <repository>
+        <id>29937</id>
+        <name>yousource-features</name>
+        <owner kind="Team">verso</owner>
+        <clone_url>https://gitorious.org/gitorious/yousource-features.git</clone_url>
+      </repository>
+      <repository>
+        <id>30016</id>
+        <name>yousource</name>
+        <owner kind="Team">verso</owner>
+        <clone_url>https://gitorious.org/gitorious/yousource.git</clone_url>
+      </repository>
+      <repository>
+        <id>50337</id>
+        <name>vsr-mainline</name>
+        <owner kind="Team">vsr</owner>
+        <clone_url>https://gitorious.org/gitorious/vsr-mainline.git</clone_url>
+      </repository>
+      <repository>
+        <id>53789</id>
+        <name>franklin-devs-phpbbhub</name>
+        <owner kind="Team">franklin-devs</owner>
+        <clone_url>https://gitorious.org/gitorious/franklin-devs-phpbbhub.git</clone_url>
+      </repository>
+      <repository>
+        <id>14</id>
+        <name>yrashk-gitorious-clone</name>
+        <owner kind="User">yrashk</owner>
+        <clone_url>https://gitorious.org/gitorious/yrashk-gitorious-clone.git</clone_url>
+      </repository>
+      <repository>
+        <id>50</id>
+        <name>xmlblog-clone</name>
+        <owner kind="User">xmlblog</owner>
+        <clone_url>https://gitorious.org/gitorious/xmlblog-clone.git</clone_url>
+      </repository>
+      <repository>
+        <id>57</id>
+        <name>priits-mainline-clone</name>
+        <owner kind="User">priit</owner>
+        <clone_url>https://gitorious.org/gitorious/priits-mainline-clone.git</clone_url>
+      </repository>
+      <repository>
+        <id>136</id>
+        <name>samgranieris-clone</name>
+        <owner kind="User">samgranieri</owner>
+        <clone_url>https://gitorious.org/gitorious/samgranieris-clone.git</clone_url>
+      </repository>
+      <repository>
+        <id>240</id>
+        <name>krawek-gitorious-clone</name>
+        <owner kind="User">krawek</owner>
+        <clone_url>https://gitorious.org/gitorious/krawek-gitorious-clone.git</clone_url>
+      </repository>
+    </clones>
+  </repositories>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2012-10-03T09:23:32Z</created-at>
+  <description>Framework-agnostic support for paginating collections of things, and linking to paginated things in your webpage.</description>
+  <last-pushed-at type="datetime">2013-09-13T06:31:07Z</last-pushed-at>
+  <name>just_paginate</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/just_paginate.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/just_paginate.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2011-02-02T13:28:20Z</created-at>
+  <description>DMCA takedown notices sent for gitorious.org</description>
+  <last-pushed-at type="datetime">2011-07-27T12:44:28Z</last-pushed-at>
+  <name>dmca</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/dmca.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/dmca.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

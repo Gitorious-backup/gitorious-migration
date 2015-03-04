@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2013-06-28T14:21:36Z</created-at>
+  <description>The puppet configuration for ci.gitorious.org</description>
+  <last-pushed-at type="datetime">2014-04-28T14:24:38Z</last-pushed-at>
+  <name>ci-puppet</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/ci-puppet.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/ci-puppet.git</push-url>
+  <parent nil="true"/>
+  <owner kind="Team">gitorious-hackers</owner>
+  <kind>mainline</kind>
+  <project>gitorious</project>
+</repository>

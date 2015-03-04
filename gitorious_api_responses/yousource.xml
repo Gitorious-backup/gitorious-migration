@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+  <created-at type="datetime">2010-05-19T09:49:28Z</created-at>
+  <description>YouSource is a custom version of Gitorious. This repo contains some features and fixes that are made for YouSource but are refactored to be compatible as merge requests for Gitorious mainline.
+
+The main YouSource repo is at: https://yousource.it.jyu.fi/yousource/yousource</description>
+  <last-pushed-at type="datetime">2011-10-31T11:09:51Z</last-pushed-at>
+  <name>yousource</name>
+  <ready type="boolean">true</ready>
+  <clone-url>https://gitorious.org/gitorious/yousource.git</clone-url>
+  <push-url>git@gitorious.org:gitorious/yousource.git</push-url>
+  <parent>
+    <created-at type="datetime">2008-01-06T01:20:41Z</created-at>
+    <description>Gitorious web interface built with Ruby on Rails</description>
+    <last-pushed-at type="datetime">2015-03-04T14:34:38Z</last-pushed-at>
+    <name>mainline</name>
+    <ready type="boolean">true</ready>
+    <clone-url>https://gitorious.org/gitorious/mainline.git</clone-url>
+    <push-url>git@gitorious.org:gitorious/mainline.git</push-url>
+    <parent nil="true"/>
+    <owner kind="Team">verso</owner>
+    <kind>team</kind>
+    <project>gitorious</project>
+  </parent>
+  <owner kind="Team">verso</owner>
+  <kind>team</kind>
+  <project>gitorious</project>
+</repository>
