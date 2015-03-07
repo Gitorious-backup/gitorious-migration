@@ -10,6 +10,8 @@ note, these scripts are shitty so prepare for your eyes to bleed.
 
 Have fun looking at the crappy source.  It got the job done.
 
+### Migration
+
 The order in which the migration was run relative to the root of this
 repository.
 
@@ -26,5 +28,14 @@ A quick summary of the git commands used to perform the mirroring.
     git push --mirror github
 
 That's about it.
+
+### Update migrated repositories
+
+Since I didn't delete the repositories after migrating them to github I created
+a script to catch new projects being created and update ones that already exist.
+
+    ./clone.sh
+    ./migrate.sh
+    ./update.sh
 
 [gitorious-aquisition]: https://about.gitlab.com/2015/03/03/gitlab-acquires-gitorious/
